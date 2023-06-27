@@ -1,11 +1,11 @@
 # opendata
 
-In diesem Repository werden ausgewählte Messdaten der messeffekt GmbH im Zusammenhang mit dem Förderprogramm Einsparzähler vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) veröffentlicht.
+In diesem Projektarchiv werden ausgewählte Messdaten der messeffekt GmbH im Zusammenhang mit dem Förderprogramm Einsparzähler vom Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) veröffentlicht.
 
 Das Förderprogramm hat eine Laufzeit von 5 Jahren, im ersten Jahr gibt es noch keinen Bericht und daher auch keine Daten.
 
-1) Die jährlichen Sachberichte mit Einsparberechnung und Baseline-Erstellung liegen im Ordner "Sachberichte". Sie beinhalten die Erklärung der Messdaten, daher diese bitte zuerst lesen.
-2) Die Messdaten befinden sich im Ordner "Daten", nach Jahr und Projekt sortiert. Die Projektnummern stehen im Dateinamen und korresponieren mit den Nummern in den Sachberichten.
+1) Die jährlichen Berichte mit Einsparberechnung und Baseline-Erstellung liegen im Ordner "Berichte". Sie beinhalten die Erklärung der Messdaten, daher diese bitte zuerst lesen.
+2) Die Messdaten befinden sich im Ordner "Daten", nach Jahr und Projekt sortiert. Die Projektnummern stehen im Dateinamen und korresponieren mit den Nummern in den Berichten.
 
 
 ### Wichtige Links:
